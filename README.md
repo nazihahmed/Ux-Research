@@ -6,9 +6,9 @@
 ![Research Plan](/Research-Plan-01.jpg)
 
 ### research results
-![Empathy Map 1](/research result 1-01.jpg)
-![Empathy Map 2](/research result 2-01.jpg)
-![Empathy Map 3](/research result 3-01.jpg)
+![Empathy Map 1](/research-result-1-01.jpg)
+![Empathy Map 2](/research-result-2-01.jpg)
+![Empathy Map 3](/research-result-3-01.jpg)
 
 ### empathy maps
 ![Empathy Map 1](/Empathy-Map-1.jpg)
